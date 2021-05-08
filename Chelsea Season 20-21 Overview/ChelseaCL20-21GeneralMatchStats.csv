@@ -1,13 +1,13 @@
-Date,Round,Manager,Venue,Result,GF,GA,Opponent,xG,xGA,Poss
-20/10/2020,Group stage,Lampard,Home,D,0,0,Sevilla,0.5,0.3,44
-28/10/2020,Group stage,Lampard,Away,W,4,0,Krasnodar,2.6,0.6,70
-04/11/2020,Group stage,Lampard,Home,W,3,0,Rennes,2.8,0.4,57
-24/11/2020,Group stage,Lampard,Away,W,2,1,Rennes,1.9,1.1,49
-02/12/2020,Group stage,Lampard,Away,W,4,0,Sevilla,2.2,1.2,45
-08/12/2020,Group stage,Lampard,Home,D,1,1,Krasnodar,1.9,0.7,63
-23/02/2021,Round of 16,Tuchel,Away,W,1,0,Atlético Madrid,0.6,0.5,62
-17/03/2021,Round of 16,Tuchel,Home,W,2,0,Atlético Madrid,1.7,0.6,55
-07/04/2021,Quarter-finals,Tuchel,Away,W,2,0,Porto,1.5,1,59
-13/04/2021,Quarter-finals,Tuchel,Home,L,0,1,Porto,0.9,0.3,47
-27/04/2021,Semi-finals,Tuchel,Away,D,1,1,Real Madrid,1.4,0.3,49
-05/05/2021,Semi-finals,Tuchel,Home,W,2,0,Real Madrid,4.2,0.5,64
+Team,Date,Round,Manager,Venue,Result,GF,GA,Opponent,xG,xGA,Poss
+Chelsea,20/10/2020,Group stage,Lampard,Home,D,0,0,Sevilla,0.5,0.3,44
+Chelsea,28/10/2020,Group stage,Lampard,Away,W,4,0,Krasnodar,2.6,0.6,70
+Chelsea,04/11/2020,Group stage,Lampard,Home,W,3,0,Rennes,2.8,0.4,57
+Chelsea,24/11/2020,Group stage,Lampard,Away,W,2,1,Rennes,1.9,1.1,49
+Chelsea,02/12/2020,Group stage,Lampard,Away,W,4,0,Sevilla,2.2,1.2,45
+Chelsea,08/12/2020,Group stage,Lampard,Home,D,1,1,Krasnodar,1.9,0.7,63
+Chelsea,23/02/2021,Round of 16,Tuchel,Away,W,1,0,Atlético Madrid,0.6,0.5,62
+Chelsea,17/03/2021,Round of 16,Tuchel,Home,W,2,0,Atlético Madrid,1.7,0.6,55
+Chelsea,07/04/2021,Quarter-finals,Tuchel,Away,W,2,0,Porto,1.5,1,59
+Chelsea,13/04/2021,Quarter-finals,Tuchel,Home,L,0,1,Porto,0.9,0.3,47
+Chelsea,27/04/2021,Semi-finals,Tuchel,Away,D,1,1,Real Madrid,1.4,0.3,49
+Chelsea,05/05/2021,Semi-finals,Tuchel,Home,W,2,0,Real Madrid,4.2,0.5,64
