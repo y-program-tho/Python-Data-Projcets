@@ -1,0 +1,13 @@
+Date,Round,Manager,Venue,Result,GF,GA,Opponent,Total Passes Completed,Total Attempted Passes,Total Pass Completion Percentage %,Total Distance Travelled for Completed Passes ,Total Distance Travelled for Completed Passes To Opponents Goal,Short Passes Completed,Short Passes Attempted,Short Passes Completed Percentage %,Meduim Passes Completed,Meduim Passes Attempted,Meduim Passes Completed Percentage %,Long Passes Completed,Long Passes Attempted,Long Passes Completed Percentage %,Assists,Expected Assists xA,Key Passes,Final 3rd Passes Completed ,Passes Completed Into 18yd Box,Cross Completed Into 18yd Box,Progressive Passes
+20/10/2020,Group stage,Lampard,Home,D,0,0,Sevilla,399,498,80.1,7704,2594,167,188,88.8,168,194,86.6,60,95,63.2,0,0.4,4,29,4,3,32
+28/10/2020,Group stage,Lampard,Away,W,4,0,Krasnodar,637,729,87.4,12541,3418,230,255,90.2,311,343,90.7,84,112,75,3,0.9,10,28,14,2,53
+04/11/2020,Group stage,Lampard,Home,W,3,0,Rennes,597,690,86.5,11972,3082,207,232,89.2,302,329,91.8,85,113,75.2,1,1.3,5,54,8,2,45
+24/11/2020,Group stage,Lampard,Away,W,2,1,Rennes,482,584,82.5,9139,2915,193,214,90.2,201,233,86.3,72,110,65.5,2,1.8,9,35,9,1,36
+02/12/2020,Group stage,Lampard,Away,W,4,0,Sevilla,379,462,82,7255,2569,164,179,91.6,146,173,84.4,59,89,66.3,3,1.4,12,19,7,1,27
+08/12/2020,Group stage,Lampard,Home,D,1,1,Krasnodar,616,717,85.9,11506,3263,246,280,87.9,285,315,90.5,72,99,72.7,0,1,13,46,9,4,47
+23/02/2021,Round of 16,Tuchel,Away,W,1,0,Atlético Madrid,602,694,86.7,10576,2866,292,316,92.4,243,272,89.3,61,89,68.5,0,0.5,7,53,9,4,39
+17/03/2021,Round of 16,Tuchel,Home,W,2,0,Atlético Madrid,509,608,83.7,8959,2907,225,244,92.2,222,251,88.4,47,84,56,2,1.6,13,43,10,3,39
+07/04/2021,Quarter-finals,Tuchel,Away,W,2,0,Porto,495,575,86.1,8838,2608,234,244,95.9,196,218,89.9,55,92,59.8,1,0.8,5,16,4,0,18
+13/04/2021,Quarter-finals,Tuchel,Home,L,0,1,Porto,378,464,81.5,6029,2455,207,224,92.4,118,139,84.9,35,72,48.6,0,0.9,8,17,5,0,21
+27/04/2021,Semi-finals,Tuchel,Away,D,1,1,Real Madrid,512,587,87.2,8518,2666,257,275,93.5,210,230,91.3,41,71,57.7,1,1.4,8,26,11,0,27
+05/05/2021,Semi-finals,Tuchel,Home,W,2,0,Real Madrid,300,378,79.4,5634,2149,129,140,92.1,127,146,87,40,72,55.6,2,2.3,12,15,10,1,27

@@ -1,0 +1,35 @@
+Date,Round,Manager,Venue,Result,GF,GA,Opponent,SCA Shot Creating Action(s) ,SCA PassLive,SCA PassDead,SCA Dribble,SCA Shot,SCA Fouls Drawn,SCA Defensive Action(s) ,GCA Goal Creating Action(s),GCA PassLive,GCA PassDead,GCA Dribble,GCA Shot,GCA Foul  Drawn,GCA Defensive Action(s),GCA Own Goal
+14/09/2020,Matchweek 1,Lampard,Away,W,3,1,Brighton,18,15,1,1,0,1,0,6,4,1,0,0,1,0,0
+20/09/2020,Matchweek 2,Lampard,Home,L,0,2,Liverpool,10,8,0,1,0,1,0,0,0,0,0,0,0,0,0
+26/09/2020,Matchweek 3,Lampard,Away,D,3,3,West Brom,40,35,0,0,2,3,0,5,4,0,0,1,0,0,0
+03/10/2020,Matchweek 4,Lampard,Home,W,4,0,Crystal Palace,27,21,3,0,0,3,0,4,2,0,0,0,2,0,0
+17/10/2020,Matchweek 5,Lampard,Home,D,3,3,Southampton,19,12,3,2,2,0,0,6,4,0,2,0,0,0,0
+24/10/2020,Matchweek 6,Lampard,Away,D,0,0,Manchester Utd,8,6,1,0,0,0,1,0,0,0,0,0,0,0,0
+31/10/2020,Matchweek 7,Lampard,Away,W,3,0,Burnley,23,16,3,1,2,1,0,5,4,1,0,0,0,0,0
+07/11/2020,Matchweek 8,Lampard,Home,W,4,1,Sheffield Utd,31,24,2,1,1,3,0,6,3,2,0,0,1,0,0
+21/11/2020,Matchweek 9,Lampard,Away,W,2,0,Newcastle Utd,27,23,2,0,1,0,1,4,4,0,0,0,0,0,0
+29/11/2020,Matchweek 10,Lampard,Home,D,0,0,Tottenham,20,17,1,1,0,1,0,0,0,0,0,0,0,0,0
+05/12/2020,Matchweek 11,Lampard,Home,W,3,1,Leeds United,38,20,7,1,7,1,2,6,4,1,0,1,0,0,0
+12/12/2020,Matchweek 12,Lampard,Away,L,0,1,Everton,16,12,1,0,0,2,1,0,0,0,0,0,0,0,0
+15/12/2020,Matchweek 13,Lampard,Away,L,1,2,Wolves,18,11,3,1,1,2,0,2,2,0,0,0,0,0,0
+21/12/2020,Matchweek 14,Lampard,Home,W,3,0,West Ham,13,7,2,1,2,0,1,4,1,1,0,2,0,0,0
+26/12/2020,Matchweek 15,Lampard,Away,L,1,3,Arsenal,29,20,4,2,0,2,1,2,1,0,1,0,0,0,0
+28/12/2020,Matchweek 16,Lampard,Home,D,1,1,Aston Villa,23,17,2,2,1,0,1,2,2,0,0,0,0,0,0
+03/01/2021,Matchweek 17,Lampard,Home,L,1,3,Manchester City,15,10,3,1,1,0,0,2,2,0,0,0,0,0,0
+16/01/2021,Matchweek 19,Lampard,Away,W,1,0,Fulham,36,27,5,2,1,0,1,2,2,0,0,0,0,0,0
+19/01/2021,Matchweek 18,Lampard,Away,L,0,2,Leicester City,16,9,4,0,2,1,0,0,0,0,0,0,0,0,0
+27/01/2021,Matchweek 20,Tuchel,Home,D,0,0,Wolves,26,20,3,0,1,1,1,0,0,0,0,0,0,0,0
+31/01/2021,Matchweek 21,Tuchel,Home,W,2,0,Burnley,38,36,0,2,0,0,0,4,4,0,0,0,0,0,0
+04/02/2021,Matchweek 22,Tuchel,Away,W,1,0,Tottenham,31,24,2,2,1,2,0,1,0,0,0,0,1,0,0
+07/02/2021,Matchweek 23,Tuchel,Away,W,2,1,Sheffield Utd,17,14,0,1,0,1,1,4,2,0,0,0,1,1,0
+15/02/2021,Matchweek 24,Tuchel,Home,W,2,0,Newcastle Utd,31,25,4,0,2,0,0,2,2,0,0,0,0,0,0
+20/02/2021,Matchweek 25,Tuchel,Away,D,1,1,Southampton,16,9,2,2,0,3,0,2,0,0,1,0,1,0,0
+28/02/2021,Matchweek 26,Tuchel,Home,D,0,0,Manchester Utd,28,20,1,3,2,1,1,0,0,0,0,0,0,0,0
+04/03/2021,Matchweek 29,Tuchel,Away,W,1,0,Liverpool,19,18,0,0,1,0,0,2,2,0,0,0,0,0,0
+08/03/2021,Matchweek 27,Tuchel,Home,W,2,0,Everton,36,22,2,1,3,6,2,3,1,0,0,1,1,0,0
+13/03/2021,Matchweek 28,Tuchel,Away,D,0,0,Leeds United,29,27,0,2,0,0,0,0,0,0,0,0,0,0,0
+03/04/2021,Matchweek 30,Tuchel,Home,L,2,5,West Brom,31,17,7,2,2,2,1,3,1,0,1,1,0,0,0
+10/04/2021,Matchweek 31,Tuchel,Away,W,4,1,Crystal Palace,42,32,5,2,2,1,0,6,4,1,0,0,1,0,0
+20/04/2021,Matchweek 32,Tuchel,Home,D,0,0,Brighton,12,9,1,1,0,1,0,0,0,0,0,0,0,0,0
+24/04/2021,Matchweek 33,Tuchel,Away,W,1,0,West Ham,30,24,1,2,2,1,0,2,2,0,0,0,0,0,0
+01/05/2021,Matchweek 34,Tuchel,Home,W,2,0,Fulham,15,11,0,0,2,2,0,4,4,0,0,0,0,0,0
