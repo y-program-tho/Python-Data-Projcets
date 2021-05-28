@@ -1,35 +1,39 @@
-Date,Round,Manager,Venue,Result,GF,GA,Opponent,Total Passes Completed,Total Attempted Passes,Total Pass Completion Percentage %,Total Distance Travelled for Completed Passes ,Total Distance Travelled for Completed Passes To Opponents Goal,Short Passes Completed,Short Passes Attempted,Short Passes Completed Percentage %,Meduim Passes Completed,Meduim Passes Attempted,Meduim Passes Completed Percentage %,Long Passes Completed,Long Passes Attempted,Long Passes Completed Percentage %,Assists,Expected Assists xA,Key Passes,Final 3rd Passes Completed ,Passes Completed Into 18yd Box,Cross Completed Into 18yd Box,Progressive Passes
-14/09/2020,Matchweek 1,Lampard,Away,W,3,1,Brighton,402,484,83.1,7964,2415,172,185,93,166,185,89.7,59,96,61.5,2,0.4,9,22,7,1,28
-20/09/2020,Matchweek 2,Lampard,Home,L,0,2,Liverpool,439,518,84.7,8486,2385,191,208,91.8,174,196,88.8,68,97,70.1,0,0.2,3,13,3,2,16
-26/09/2020,Matchweek 3,Lampard,Away,D,3,3,West Brom,732,837,87.5,13784,3722,293,324,90.4,359,388,92.5,74,106,69.8,2,1.2,18,75,13,4,66
-03/10/2020,Matchweek 4,Lampard,Home,W,4,0,Crystal Palace,650,736,88.3,13143,3137,214,236,90.7,322,349,92.3,103,127,81.1,1,0.9,13,58,8,2,35
-17/10/2020,Matchweek 5,Lampard,Home,D,3,3,Southampton,500,612,81.7,9465,2953,201,237,84.8,228,261,87.4,60,92,65.2,2,1.8,10,26,15,1,37
-24/10/2020,Matchweek 6,Lampard,Away,D,0,0,Manchester Utd,500,613,81.6,9459,2423,188,202,93.1,249,282,88.3,58,101,57.4,0,0.1,3,22,3,1,26
-31/10/2020,Matchweek 7,Lampard,Away,W,3,0,Burnley,620,713,87,11624,3421,273,297,91.9,248,268,92.5,85,129,65.9,3,0.8,10,41,11,3,46
-07/11/2020,Matchweek 8,Lampard,Home,W,4,1,Sheffield Utd,695,789,88.1,14832,3598,221,248,89.1,337,363,92.8,127,157,80.9,4,1.9,13,49,10,4,47
-21/11/2020,Matchweek 9,Lampard,Away,W,2,0,Newcastle Utd,685,780,87.8,13299,3225,259,280,92.5,308,338,91.1,100,132,75.8,1,1.6,13,59,9,2,50
-29/11/2020,Matchweek 10,Lampard,Home,D,0,0,Tottenham,607,697,87.1,12435,3261,208,228,91.2,295,318,92.8,100,134,74.6,0,0.8,11,57,11,7,49
-05/12/2020,Matchweek 11,Lampard,Home,W,3,1,Leeds United,349,458,76.2,6536,2469,137,165,83,144,171,84.2,52,86,60.5,3,2.3,18,20,11,2,34
-12/12/2020,Matchweek 12,Lampard,Away,L,0,1,Everton,573,702,81.6,10919,3327,215,245,87.8,270,307,87.9,72,116,62.1,0,0.6,6,43,6,1,53
-15/12/2020,Matchweek 13,Lampard,Away,L,1,2,Wolves,444,538,82.5,8774,2670,183,214,85.5,188,217,86.6,68,93,73.1,1,0.7,9,35,10,4,34
-21/12/2020,Matchweek 14,Lampard,Home,W,3,0,West Ham,466,556,83.8,9401,2738,173,187,92.5,218,243,89.7,70,110,63.6,2,1.2,6,27,9,1,31
-26/12/2020,Matchweek 15,Lampard,Away,L,1,3,Arsenal,425,521,81.6,8805,2814,170,189,89.9,176,204,86.3,74,114,64.9,1,1.2,13,28,11,2,41
-28/12/2020,Matchweek 16,Lampard,Home,D,1,1,Aston Villa,484,597,81.1,9200,2755,197,226,87.2,213,252,84.5,61,98,62.2,1,0.7,11,29,11,3,39
-03/01/2021,Matchweek 17,Lampard,Home,L,1,3,Manchester City,595,670,88.8,11457,3255,260,281,92.5,237,258,91.9,89,114,78.1,1,0.7,8,32,6,2,34
-16/01/2021,Matchweek 19,Lampard,Away,W,1,0,Fulham,686,794,86.4,13397,3315,241,260,92.7,321,345,93,103,149,69.1,0,1.1,17,59,11,2,44
-19/01/2021,Matchweek 18,Lampard,Away,L,0,2,Leicester City,572,654,87.5,11658,2998,213,232,91.8,267,285,93.7,90,120,75,0,0.7,8,36,11,3,35
-27/01/2021,Matchweek 20,Tuchel,Home,D,0,0,Wolves,852,944,90.3,15629,3932,346,376,92,421,445,94.6,81,112,72.3,0,0.7,13,82,9,2,53
-31/01/2021,Matchweek 21,Tuchel,Home,W,2,0,Burnley,657,752,87.4,11742,3371,298,320,93.1,283,311,91,68,102,66.7,2,1.2,18,52,20,2,65
-04/02/2021,Matchweek 22,Tuchel,Away,W,1,0,Tottenham,572,660,86.7,10500,2965,249,268,92.9,246,274,89.8,66,98,67.3,0,1.3,15,39,16,2,43
-07/02/2021,Matchweek 23,Tuchel,Away,W,2,1,Sheffield Utd,673,766,87.9,12543,3738,285,304,93.8,291,317,91.8,84,108,77.8,1,0.7,8,32,16,2,58
-15/02/2021,Matchweek 24,Tuchel,Home,W,2,0,Newcastle Utd,513,598,85.8,9240,3146,251,279,90,186,204,91.2,67,97,69.1,0,1.3,15,33,10,2,40
-20/02/2021,Matchweek 25,Tuchel,Away,D,1,1,Southampton,649,755,86,12465,3534,238,278,85.6,330,355,93,72,99,72.7,0,0.4,7,44,10,2,54
-28/02/2021,Matchweek 26,Tuchel,Home,D,0,0,Manchester Utd,550,627,87.7,10084,2538,222,239,92.9,266,282,94.3,55,89,61.8,0,1,14,35,1,1,27
-04/03/2021,Matchweek 29,Tuchel,Away,W,1,0,Liverpool,470,560,83.9,8339,2764,211,231,91.3,204,222,91.9,44,89,49.4,1,0.9,10,19,10,0,28
-08/03/2021,Matchweek 27,Tuchel,Home,W,2,0,Everton,655,733,89.4,11543,3487,311,326,95.4,288,312,92.3,52,81,64.2,0,1.8,13,24,8,2,39
-13/03/2021,Matchweek 28,Tuchel,Away,D,0,0,Leeds United,514,621,82.8,9110,2908,238,267,89.1,208,231,90,58,95,61.1,0,1.4,15,34,12,2,37
-03/04/2021,Matchweek 30,Tuchel,Home,L,2,5,West Brom,508,591,86,9425,2823,206,228,90.4,238,257,92.6,56,89,62.9,1,1.8,14,30,15,0,42
-10/04/2021,Matchweek 31,Tuchel,Away,W,4,1,Crystal Palace,719,799,90,12157,3580,383,405,94.6,264,294,89.8,62,85,72.9,3,2.1,20,55,16,2,53
-20/04/2021,Matchweek 32,Tuchel,Home,D,0,0,Brighton,686,768,89.3,12691,3132,258,279,92.5,364,386,94.3,59,87,67.8,0,0.5,6,28,7,1,31
-24/04/2021,Matchweek 33,Tuchel,Away,W,1,0,West Ham,497,588,84.5,8885,2698,220,245,89.8,227,252,90.1,49,79,62,1,1.8,14,33,8,2,36
-01/05/2021,Matchweek 34,Tuchel,Home,W,2,0,Fulham,434,510,85.1,8563,2456,167,185,90.3,200,222,90.1,61,87,70.1,2,1.6,6,22,9,0,25
+Team,Manager,Date,Round,Venue,Result,GF,GA,Opponent,Pass Cmp,Pass Attp,Pass Cmp %,Pass Tot Dist,Pass Prg Dist,Pass Cmp Short ,Pass Attp Short,Pass Cmp % Short,Pass Cmp Med,Pass Attp Med,Pass Cmp % Med,Pass Cmp Long ,Pass Att Long,Pass Cmp % Long,Ast,xA,KP,Atk 3rd Pass,PPA,CrsPA,Prg Pass Pen
+Chelsea,Lampard,14/09/2020,Matchweek 1,Away,W,3,1,Brighton,402,484,83.1,7964,2415,172,185,93,166,185,89.7,59,96,61.5,2,0.4,9,22,7,1,28
+Chelsea,Lampard,20/09/2020,Matchweek 2,Home,L,0,2,Liverpool,439,518,84.7,8486,2385,191,208,91.8,174,196,88.8,68,97,70.1,0,0.2,3,13,3,2,16
+Chelsea,Lampard,26/09/2020,Matchweek 3,Away,D,3,3,West Brom,732,837,87.5,13784,3722,293,324,90.4,359,388,92.5,74,106,69.8,2,1.2,18,75,13,4,66
+Chelsea,Lampard,03/10/2020,Matchweek 4,Home,W,4,0,Crystal Palace,650,736,88.3,13143,3137,214,236,90.7,322,349,92.3,103,127,81.1,1,0.9,13,58,8,2,35
+Chelsea,Lampard,17/10/2020,Matchweek 5,Home,D,3,3,Southampton,500,612,81.7,9465,2953,201,237,84.8,228,261,87.4,60,92,65.2,2,1.8,10,26,15,1,37
+Chelsea,Lampard,24/10/2020,Matchweek 6,Away,D,0,0,Manchester Utd,500,613,81.6,9459,2423,188,202,93.1,249,282,88.3,58,101,57.4,0,0.1,3,22,3,1,26
+Chelsea,Lampard,31/10/2020,Matchweek 7,Away,W,3,0,Burnley,620,713,87,11624,3421,273,297,91.9,248,268,92.5,85,129,65.9,3,0.8,10,41,11,3,46
+Chelsea,Lampard,07/11/2020,Matchweek 8,Home,W,4,1,Sheffield Utd,695,789,88.1,14832,3598,221,248,89.1,337,363,92.8,127,157,80.9,4,1.9,13,49,10,4,47
+Chelsea,Lampard,21/11/2020,Matchweek 9,Away,W,2,0,Newcastle Utd,685,780,87.8,13299,3225,259,280,92.5,308,338,91.1,100,132,75.8,1,1.6,13,59,9,2,50
+Chelsea,Lampard,29/11/2020,Matchweek 10,Home,D,0,0,Tottenham,607,697,87.1,12435,3261,208,228,91.2,295,318,92.8,100,134,74.6,0,0.8,11,57,11,7,49
+Chelsea,Lampard,05/12/2020,Matchweek 11,Home,W,3,1,Leeds United,349,458,76.2,6536,2469,137,165,83,144,171,84.2,52,86,60.5,3,2.3,18,20,11,2,34
+Chelsea,Lampard,12/12/2020,Matchweek 12,Away,L,0,1,Everton,573,702,81.6,10919,3327,215,245,87.8,270,307,87.9,72,116,62.1,0,0.6,6,43,6,1,53
+Chelsea,Lampard,15/12/2020,Matchweek 13,Away,L,1,2,Wolves,444,538,82.5,8774,2670,183,214,85.5,188,217,86.6,68,93,73.1,1,0.7,9,35,10,4,34
+Chelsea,Lampard,21/12/2020,Matchweek 14,Home,W,3,0,West Ham,466,556,83.8,9401,2738,173,187,92.5,218,243,89.7,70,110,63.6,2,1.2,6,27,9,1,31
+Chelsea,Lampard,26/12/2020,Matchweek 15,Away,L,1,3,Arsenal,425,521,81.6,8805,2814,170,189,89.9,176,204,86.3,74,114,64.9,1,1.2,13,28,11,2,41
+Chelsea,Lampard,28/12/2020,Matchweek 16,Home,D,1,1,Aston Villa,484,597,81.1,9200,2755,197,226,87.2,213,252,84.5,61,98,62.2,1,0.7,11,29,11,3,39
+Chelsea,Lampard,03/01/2021,Matchweek 17,Home,L,1,3,Manchester City,595,670,88.8,11457,3255,260,281,92.5,237,258,91.9,89,114,78.1,1,0.7,8,32,6,2,34
+Chelsea,Lampard,16/01/2021,Matchweek 19,Away,W,1,0,Fulham,686,794,86.4,13397,3315,241,260,92.7,321,345,93,103,149,69.1,0,1.1,17,59,11,2,44
+Chelsea,Lampard,19/01/2021,Matchweek 18,Away,L,0,2,Leicester City,572,654,87.5,11658,2998,213,232,91.8,267,285,93.7,90,120,75,0,0.7,8,36,11,3,35
+Chelsea,Tuchel,27/01/2021,Matchweek 20,Home,D,0,0,Wolves,852,944,90.3,15629,3932,346,376,92,421,445,94.6,81,112,72.3,0,0.7,13,82,9,2,53
+Chelsea,Tuchel,31/01/2021,Matchweek 21,Home,W,2,0,Burnley,657,752,87.4,11742,3371,298,320,93.1,283,311,91,68,102,66.7,2,1.2,18,52,20,2,65
+Chelsea,Tuchel,04/02/2021,Matchweek 22,Away,W,1,0,Tottenham,572,660,86.7,10500,2965,249,268,92.9,246,274,89.8,66,98,67.3,0,1.3,15,39,16,2,43
+Chelsea,Tuchel,07/02/2021,Matchweek 23,Away,W,2,1,Sheffield Utd,673,766,87.9,12543,3738,285,304,93.8,291,317,91.8,84,108,77.8,1,0.7,8,32,16,2,58
+Chelsea,Tuchel,15/02/2021,Matchweek 24,Home,W,2,0,Newcastle Utd,513,598,85.8,9240,3146,251,279,90,186,204,91.2,67,97,69.1,0,1.3,15,33,10,2,40
+Chelsea,Tuchel,20/02/2021,Matchweek 25,Away,D,1,1,Southampton,649,755,86,12465,3534,238,278,85.6,330,355,93,72,99,72.7,0,0.4,7,44,10,2,54
+Chelsea,Tuchel,28/02/2021,Matchweek 26,Home,D,0,0,Manchester Utd,550,627,87.7,10084,2538,222,239,92.9,266,282,94.3,55,89,61.8,0,1,14,35,1,1,27
+Chelsea,Tuchel,04/03/2021,Matchweek 29,Away,W,1,0,Liverpool,470,560,83.9,8339,2764,211,231,91.3,204,222,91.9,44,89,49.4,1,0.9,10,19,10,0,28
+Chelsea,Tuchel,08/03/2021,Matchweek 27,Home,W,2,0,Everton,655,733,89.4,11543,3487,311,326,95.4,288,312,92.3,52,81,64.2,0,1.8,13,24,8,2,39
+Chelsea,Tuchel,13/03/2021,Matchweek 28,Away,D,0,0,Leeds United,514,621,82.8,9110,2908,238,267,89.1,208,231,90,58,95,61.1,0,1.4,15,34,12,2,37
+Chelsea,Tuchel,03/04/2021,Matchweek 30,Home,L,2,5,West Brom,508,591,86,9425,2823,206,228,90.4,238,257,92.6,56,89,62.9,1,1.8,14,30,15,0,42
+Chelsea,Tuchel,10/04/2021,Matchweek 31,Away,W,4,1,Crystal Palace,719,799,90,12157,3580,383,405,94.6,264,294,89.8,62,85,72.9,3,2.1,20,55,16,2,53
+Chelsea,Tuchel,20/04/2021,Matchweek 32,Home,D,0,0,Brighton,686,768,89.3,12691,3132,258,279,92.5,364,386,94.3,59,87,67.8,0,0.5,6,28,7,1,31
+Chelsea,Tuchel,24/04/2021,Matchweek 33,Away,W,1,0,West Ham,498,589,84.6,8900,2700,221,246,89.8,227,252,90.1,49,79,62,1,1.8,14,33,8,2,36
+Chelsea,Tuchel,01/05/2021,Matchweek 34,Home,W,2,0,Fulham,435,511,85.1,8567,2458,167,185,90.3,200,223,89.7,61,87,70.1,2,1.6,6,22,9,0,25
+Chelsea,Tuchel,08/05/2021,Matchweek 35,Away,W,2,1,Manchester City,518,584,88.7,9255,2683,238,256,93,230,244,94.3,46,70,65.7,2,0.6,9,23,7,0,26
+Chelsea,Tuchel,12/05/2021,Matchweek 36,Home,L,0,1,Arsenal,701,794,88.3,12391,2942,325,344,94.5,284,313,90.7,78,111,70.3,0,1,15,49,17,5,33
+Chelsea,Tuchel,18/05/2021,Matchweek 37,Home,W,2,1,Leicester City,490,573,85.5,8892,2791,194,214,90.7,234,256,91.4,50,81,61.7,0,1.1,12,32,4,0,34
+Chelsea,Tuchel,23/05/2021,Matchweek 38,Away,L,1,2,Aston Villa,561,657,85.4,10195,3131,246,270,91.1,266,297,89.6,44,72,61.1,1,2.3,20,43,22,6,59

@@ -1,13 +1,13 @@
-Team,Date,Round,Manager,Venue,Result,GF,GA,Opponent,Possession,Number Touches Made By Team,Touches In Defensive  Penalty Area,Touches In Defensive 3rd,Touches In Midfield 3rd,Touches In Attacking 3rd,Touches In Attacking Penalty Area,Live Ball Touches,Successful Dribbles,Attempted Dribbles,Dribble Success Rate %,Number Of Players Dribbled Past,Number Of Nutmegs,Number Of Ball Carries,Total Distance Of Ball Carries,Progressive Distnace Of Ball Carries,Carries Into Midfield 3rd + Attacking 3rd,Carries Entering The Attacking 3rd,Carries Into 18 Yard Box,Miscontrolled Carries,Carry Dispossessions ,Number Of Recievers Of An Attempted Pass,Number Of Recievers Of Successful Passes,Number Of Recievers Of Successful Passes Percentage %,Progressive Passes Received
-Chelsea,20/10/2020,Group stage,Lampard,Home,D,0,0,Sevilla,44,617,68,219,300,129,18,582,9,15,60,10,0,385,1731,847,38,11,6,20,7,459,399,86.9,40
-Chelsea,28/10/2020,Group stage,Lampard,Away,W,4,0,Krasnodar,70,835,102,316,417,147,31,786,15,25,60,16,0,575,2910,1473,47,13,5,14,10,683,637,93.3,53
-Chelsea,04/11/2020,Group stage,Lampard,Home,W,3,0,Rennes,57,777,73,239,380,197,19,742,6,7,85.7,6,0,507,2567,1498,53,10,6,3,12,654,597,91.3,45
-Chelsea,24/11/2020,Group stage,Lampard,Away,W,2,1,Rennes,49,699,72,208,382,148,20,662,8,11,72.7,8,0,418,1578,822,32,8,1,14,14,555,482,86.8,36
-Chelsea,02/12/2020,Group stage,Lampard,Away,W,4,0,Sevilla,45,572,74,192,281,133,23,526,15,24,62.5,19,1,351,1891,1054,45,14,6,13,9,445,379,85.2,27
-Chelsea,08/12/2020,Group stage,Lampard,Home,D,1,1,Krasnodar,63,810,50,186,395,286,31,761,9,16,56.3,9,0,622,2805,1686,63,23,9,16,8,712,616,86.5,47
-Chelsea,23/02/2021,Round of 16,Tuchel,Away,W,1,0,Atlético Madrid,62,821,52,162,425,277,29,777,9,13,69.2,10,0,513,2215,1087,72,20,11,11,19,681,602,88.4,39
-Chelsea,17/03/2021,Round of 16,Tuchel,Home,W,2,0,Atlético Madrid,55,739,81,205,340,237,29,698,19,31,61.3,20,0,498,2625,1387,56,19,9,17,9,599,509,85,39
-Chelsea,07/04/2021,Quarter-finals,Tuchel,Away,W,2,0,Porto,59,689,98,287,323,123,9,644,4,11,36.4,4,0,402,1976,989,36,14,2,10,7,560,495,88.4,18
-Chelsea,13/04/2021,Quarter-finals,Tuchel,Home,L,0,1,Porto,47,642,74,229,304,138,17,590,8,13,61.5,8,0,344,1724,744,28,11,5,22,22,448,378,84.4,21
-Chelsea,27/04/2021,Semi-finals,Tuchel,Away,D,1,1,Real Madrid,49,700,48,197,360,193,34,660,22,31,71,23,1,526,2495,1417,64,28,7,5,16,571,512,89.7,27
-Chelsea,05/05/2021,Semi-finals,Tuchel,Home,W,2,0,Real Madrid,34,472,45,146,243,124,27,434,7,12,58.3,9,2,319,1822,1061,45,19,7,10,8,361,300,83.1,27
+Team ,Manager,Date,Round,Venue,Result,GF,GA,Opponent,Poss,Tot Touc,Touc Def Pen,Touc Def 3rd,Touc Mid 3rd,Touc Atk 3rd,Touc Atk Pen ,Touc Live,Succ Drib,Attp Drib,Succ Drib %,Drib Past,Megs,Carries,Carries Tot Dist,Carries Tot Prg Dist,Carries Atk Pen,Carries Atk 3rd,CPA,Carries Mis,Carries Dispo,Rece Targ Pass,Succ Rece,Succ Rece %,Prog Rece Pass 
+Chelsea,Lampard,20/10/2020,Group stage,Home,D,0,0,Sevilla,44,617,68,219,300,129,18,582,9,15,60,10,0,385,1731,847,38,11,6,20,7,459,399,86.9,40
+Chelsea,Lampard,28/10/2020,Group stage,Away,W,4,0,Krasnodar,70,835,102,316,417,147,31,786,15,25,60,16,0,575,2910,1473,47,13,5,14,10,683,637,93.3,53
+Chelsea,Lampard,04/11/2020,Group stage,Home,W,3,0,Rennes,57,777,73,239,380,197,19,742,6,7,85.7,6,0,507,2567,1498,53,10,6,3,12,654,597,91.3,45
+Chelsea,Lampard,24/11/2020,Group stage,Away,W,2,1,Rennes,49,699,72,208,382,148,20,662,8,11,72.7,8,0,418,1578,822,32,8,1,14,14,555,482,86.8,36
+Chelsea,Lampard,02/12/2020,Group stage,Away,W,4,0,Sevilla,45,572,74,192,281,133,23,526,15,24,62.5,19,1,351,1891,1054,45,14,6,13,9,445,379,85.2,27
+Chelsea,Lampard,08/12/2020,Group stage,Home,D,1,1,Krasnodar,63,810,50,186,395,286,31,761,9,16,56.3,9,0,622,2805,1686,63,23,9,16,8,712,616,86.5,47
+Chelsea,Tuchel,23/02/2021,Round of 16,Away,W,1,0,Atlético Madrid,62,821,52,162,425,277,29,777,9,13,69.2,10,0,513,2215,1087,72,20,11,11,19,681,602,88.4,39
+Chelsea,Tuchel,17/03/2021,Round of 16,Home,W,2,0,Atlético Madrid,55,739,81,205,340,237,29,698,19,31,61.3,20,0,498,2625,1387,56,19,9,17,9,599,509,85,39
+Chelsea,Tuchel,07/04/2021,Quarter-finals,Away,W,2,0,Porto,59,689,98,287,323,123,9,644,4,11,36.4,4,0,402,1976,989,36,14,2,10,7,560,495,88.4,18
+Chelsea,Tuchel,13/04/2021,Quarter-finals,Home,L,0,1,Porto,47,642,74,229,304,138,17,590,8,13,61.5,8,0,344,1724,744,28,11,5,22,22,448,378,84.4,21
+Chelsea,Tuchel,27/04/2021,Semi-finals,Away,D,1,1,Real Madrid,49,700,48,197,360,193,34,660,22,31,71,23,1,526,2495,1417,64,28,7,5,16,571,512,89.7,27
+Chelsea,Tuchel,05/05/2021,Semi-finals,Home,W,2,0,Real Madrid,34,472,45,146,243,124,27,434,7,12,58.3,9,2,319,1822,1061,45,19,7,10,8,361,300,83.1,27

@@ -1,13 +1,13 @@
-Team,Date,Round,Manager,Venue,Result,GF,GA,Opponent,SCA Shot Creating Action(s) ,SCA PassLive,SCA PassDead,SCA Dribble,SCA Shot,SCA Fouls Drawn,SCA Defensive Action(s) ,GCA Goal Creating Action(s),GCA PassLive,GCA PassDead,GCA Dribble,GCA Shot,GCA Foul  Drawn,GCA Defensive Action(s),GCA Own Goal
-Chelsea,20/10/2020,Group stage,Lampard,Home,D,0,0,Sevilla,9,8,1,0,0,0,0,0,0,0,0,0,0,0,0
-Chelsea,28/10/2020,Group stage,Lampard,Away,W,4,0,Krasnodar,23,15,0,2,3,2,1,7,5,0,1,1,0,0,0
-Chelsea,04/11/2020,Group stage,Lampard,Home,W,3,0,Rennes,14,12,0,0,1,1,0,5,3,0,0,1,1,0,0
-Chelsea,24/11/2020,Group stage,Lampard,Away,W,2,1,Rennes,17,10,3,0,1,1,2,3,1,0,0,1,0,1,0
-Chelsea,02/12/2020,Group stage,Lampard,Away,W,4,0,Sevilla,25,20,1,2,1,1,0,8,6,0,1,0,1,0,0
-Chelsea,08/12/2020,Group stage,Lampard,Home,D,1,1,Krasnodar,28,24,2,0,0,2,0,1,0,0,0,0,1,0,0
-Chelsea,23/02/2021,Round of 16,Tuchel,Away,W,1,0,Atlético Madrid,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0
-Chelsea,17/03/2021,Round of 16,Tuchel,Home,W,2,0,Atlético Madrid,28,22,1,4,1,0,0,4,4,0,0,0,0,0,0
-Chelsea,07/04/2021,Quarter-finals,Tuchel,Away,W,2,0,Porto,11,8,1,1,0,1,0,3,2,0,1,0,0,0,0
-Chelsea,13/04/2021,Quarter-finals,Tuchel,Home,L,0,1,Porto,15,13,1,1,0,0,0,0,0,0,0,0,0,0,0
-Chelsea,27/04/2021,Semi-finals,Tuchel,Away,D,1,1,Real Madrid,19,13,0,3,1,1,1,2,1,0,1,0,0,0,0
-Chelsea,05/05/2021,Semi-finals,Tuchel,Home,W,2,0,Real Madrid,25,19,2,1,2,1,0,3,2,0,0,1,0,0,0
+Team ,Manager,Date,Round,Venue,Result,GF,GA,Opponent,SCA  ,SCA PassLive,SCA PassDead,SCA Drib,SCA Shot,SCA Fouls Drawn,SCA Def Act,GCA ,GCA PassLive,GCA PassDead,GCA Drib,GCA Shot,GCA Foul Drawn,GCA Def Act
+Chelsea,Lampard,20/10/2020,Group stage,Home,D,0,0,Sevilla,9,8,1,0,0,0,0,0,0,0,0,0,0,0
+Chelsea,Lampard,28/10/2020,Group stage,Away,W,4,0,Krasnodar,23,15,0,2,3,2,1,7,5,0,1,1,0,0
+Chelsea,Lampard,04/11/2020,Group stage,Home,W,3,0,Rennes,14,12,0,0,1,1,0,5,3,0,0,1,1,0
+Chelsea,Lampard,24/11/2020,Group stage,Away,W,2,1,Rennes,17,10,3,0,1,1,2,3,1,0,0,1,0,1
+Chelsea,Lampard,02/12/2020,Group stage,Away,W,4,0,Sevilla,25,20,1,2,1,1,0,8,6,0,1,0,1,0
+Chelsea,Lampard,08/12/2020,Group stage,Home,D,1,1,Krasnodar,28,24,2,0,0,2,0,1,0,0,0,0,1,0
+Chelsea,Tuchel,23/02/2021,Round of 16,Away,W,1,0,Atlético Madrid,14,14,0,0,0,0,0,0,0,0,0,0,0,0
+Chelsea,Tuchel,17/03/2021,Round of 16,Home,W,2,0,Atlético Madrid,28,22,1,4,1,0,0,4,4,0,0,0,0,0
+Chelsea,Tuchel,07/04/2021,Quarter-finals,Away,W,2,0,Porto,11,8,1,1,0,1,0,3,2,0,1,0,0,0
+Chelsea,Tuchel,13/04/2021,Quarter-finals,Home,L,0,1,Porto,15,13,1,1,0,0,0,0,0,0,0,0,0,0
+Chelsea,Tuchel,27/04/2021,Semi-finals,Away,D,1,1,Real Madrid,19,13,0,3,1,1,1,2,1,0,1,0,0,0
+Chelsea,Tuchel,05/05/2021,Semi-finals,Home,W,2,0,Real Madrid,25,19,2,1,2,1,0,3,2,0,0,1,0,0
